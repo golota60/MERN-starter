@@ -1,4 +1,12 @@
+client/node_modules
+client/yarn-error.log
+client/.cache
+client/dist
+
+server/node_modules
+server/yarn-error.log
+server/.env
+server/build
+
 node_modules
 yarn-error.log
-.cache
-dist

@@ -1,0 +1,24 @@
+{
+  "name": "MERN-starter-frontend",
+  "version": "1.0.0",
+  "author": "Szymon Wiszczuk",
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-router-dom": "^5.1.2",
+    "react-transition-group": "^4.3.0"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.23",
+    "@types/react-dom": "^16.9.5",
+    "@types/react-router-dom": "^5.1.3",
+    "@types/react-transition-group": "^4.2.4",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.2",
+    "typescript": "^3.8.3"
+  }
+}
